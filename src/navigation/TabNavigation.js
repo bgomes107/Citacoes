@@ -15,7 +15,7 @@ import { FavoritosStackScreen } from "./StackNavigator";
 import { MenuStackScreen } from "./StackNavigator";
 import { PrincipiosStackScreen } from './StackNavigator';
 
-const adUnitId = __DEV__ ? TestIds.BANNER : "ca-app-pub-6251539491691615/8175461112";
+const adUnitId = __DEV__ ? TestIds.BANNER : "";
 
 const Tab = createBottomTabNavigator();
 
