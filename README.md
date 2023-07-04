@@ -1,4 +1,4 @@
-### Citacoes
+### Citações
 
 Um app de citações filosóficas com recursos de local storage, compartilhamento de texto via Share do react-native, local push notifications com agendamento de horário, Context API e pesquisa de texto por palavra-chave.
 
@@ -10,7 +10,7 @@ Um app de citações filosóficas com recursos de local storage, compartilhament
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Citacoes/blob/main/screenshots/Screenshot_1681249547_framed.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Citacoes/blob/main/screenshots/Screenshot_1681249558_framed.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Citacoes/blob/main/screenshots/Screenshot_1681249584_framed.png'/>
-    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683241190_framed.png'/>
+    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Citacoes/blob/main/screenshots/Screenshot_1681251827_framed.png'/>
 </div>
 
 ### Dependências utilizadas no projeto:
