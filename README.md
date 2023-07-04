@@ -7,7 +7,7 @@ Um app de citações filosóficas com recursos de local storage, compartilhament
 <div style='display: inline_block'>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Citacoes/blob/main/screenshots/Screenshot_1681249517_framed.png'/> 
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Citacoes/blob/main/screenshots/Screenshot_1681249537_framed.png'/>
-    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237504_framed.png'/>
+    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Citacoes/blob/main/screenshots/Screenshot_1681249547_framed.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237562_framed.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237595_framed.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683241190_framed.png'/>
